@@ -1,23 +1,6 @@
 <h1 align="center">通用web3科学家脚本组件库</h1>
 通用web3组件库，基于网络开源代码以及自己日常使用所修改完善。
 
-后面我把我这一些可以开源的项目脚本陆陆续续也加进去
-
-有能力开发的可以直接复用
-
-可在此基础上完成90%的科学家脚本开发。
-
-关注 币圈科学家旺仔 
-
-更多一手币圈源码项目分享
-
-助你轻松千号空投，早日A8。
-
-youtube https://www.youtube.com/@chainsci/videos
-twitter  https://twitter.com/howbuybtc
-
-无需再重复造轮子了。
-
 ## 全自动支持路径
 
 okx -> ethereum/zksync/linea/base/arbitrum/optimism ->
@@ -67,20 +50,4 @@ pip install -r requirements.txt
 14. 自动部署合约
 
 15. Dmail
-
- 
-
-
-## 配置使用教程
-
-1. 配置文件 settings.py
-
-2. EVM私钥配置地址 data/wallets.txt  ： okx 地址配置路径in data/okx_addresses.txt. 
-
-3.  RPC配置路径 ：data/rpc.json 
-
-4. Modules配置modules_settings.py
-
-
-   ![1](https://raw.githubusercontent.com/COINsciencer/web3/main/photo_2024-03-24_22-37-52.jpg)
  
